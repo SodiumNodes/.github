@@ -4,7 +4,7 @@
 Welcome to SodiumNodes on GitHub! Here you will find some open-source software primarily made for our hosting company, SodiumNodes.
 Contributors are more than welcome to suggest their changes through a pull request towards any repository made within this organization.
 
-### About us
+# About SodiumNodes
 
 On **March 8th, 2025,** Sleman and I (Robert Anthony Scianatico) founded SodiumNodes because of the fall of the company which we used to work in with SevenZero being the founder. GalaxyNodes.
 
