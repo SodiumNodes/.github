@@ -6,7 +6,7 @@ Contributors are more than welcome to suggest their changes through a pull reque
 
 # About SodiumNodes
 
-On **March 8th, 2025,** Sleman and I (Robert Anthony Scianatico) founded SodiumNodes because of the fall of the company which we used to work in with SevenZero being the founder. GalaxyNodes.
+On **March 8th, 2025,** I (Robert Anthony Scianatico) founded SodiumNodes because of the fall of the company which we used to work in with SevenZero being the founder. GalaxyNodes.
 
 Our motto, “The only element your server needs”, represents our ambition to provide **high-quality**, **high-performance servers** at the **lowest possible cost.** We understand how challenging it can be for people who are just getting started to rent a Minecraft server, and up to this day we have kept that in mind while pricing.
 
